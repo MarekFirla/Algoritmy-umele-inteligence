@@ -1,0 +1,12 @@
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\škola\Magisterské\2. semestr\VAI\Snake\bin\Debug\Snake.exe.config
+D:\škola\Magisterské\2. semestr\VAI\Snake\bin\Debug\Snake.exe
+D:\škola\Magisterské\2. semestr\VAI\Snake\bin\Debug\Snake.pdb
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.exe
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.pdb
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.Game.resources
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.Nastaveni.resources
+D:\škola\Magisterské\2. semestr\VAI\Snake\obj\Debug\Snake.Menu_form.resources
